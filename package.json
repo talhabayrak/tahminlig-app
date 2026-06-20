@@ -15,7 +15,7 @@
     "react-native": "0.74.5",
     "react-native-paper": "4.9.2",
     "@expo/vector-icons": "^14.0.0",
-    "@supabase/supabase-js": "^2.40.0"
+    "@supabase/supabase-js": "2.38.4"
   },
   "private": true
 }
