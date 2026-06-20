@@ -1,20 +1,28 @@
 {
-  "expo": {
-    "name": "TahminLig",
-    "slug": "tahminlig",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "android": {
-      "package": "com.talhabayrak.tahminlig",
-      "versionCode": 1
-    },
-    "ios": {
-      "bundleIdentifier": "com.talhabayrak.tahminlig",
-      "buildNumber": "1"
-    },
-    "cli": {
-      "appVersionSource": "app"
+  "name": "TahminLig",
+  "slug": "tahminlig",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "userInterfaceStyle": "dark",
+  "android": {
+    "package": "com.talhabayrak.tahminlig",
+    "versionCode": 1
+  },
+  "ios": {
+    "bundleIdentifier": "com.talhabayrak.tahminlig",
+    "buildNumber": "1"
+  },
+  "cli": {
+    "appVersionSource": "app"
+  },
+  "sdkVersion": "51.0.0",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "81f21151-692d-4876-96a8-20459c5366ba"
     }
   }
 }
