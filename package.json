@@ -19,5 +19,9 @@
     "@supabase/storage-js": "2.5.0",
     "@supabase/realtime-js": "2.9.3"
   },
+  "resolutions": {
+    "@supabase/storage-js": "2.5.0",
+    "@supabase/realtime-js": "2.9.3"
+  },
   "private": true
 }
