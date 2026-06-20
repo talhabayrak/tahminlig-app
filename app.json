@@ -12,6 +12,9 @@
     "ios": {
       "bundleIdentifier": "com.talhabayrak.tahminlig",
       "buildNumber": "1"
+    },
+    "cli": {
+      "appVersionSource": "app"
     }
   }
 }
